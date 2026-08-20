@@ -1,0 +1,25 @@
+{
+  "name": "Onuvuti - অনুভূতি",
+  "short_name": "Onuvuti",
+  "start_url": "https://www.onuvuti.com/",
+  "scope": "https://www.onuvuti.com/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d1b1e",
+  "theme_color": "#444444",
+  "description": "Onuvuti - অনুভূতি অফিসিয়াল ওয়েবসাইট",
+  "icons": [
+    {
+      "src": "https://www.onuvuti.com/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://www.onuvuti.com/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
